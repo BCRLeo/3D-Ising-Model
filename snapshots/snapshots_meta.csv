@@ -1,0 +1,11 @@
+snapshot_idx,snapshot_file,sweep_label,L,T,J,h,n_equil_sweeps,n_meas_sweeps,store_every
+0,snapshots\snapshot_L16_T4.500_J5.000_h0.000_sweep100_idx0000.csv,100,16,4.5,5.0,0.0,100,500,50
+1,snapshots\snapshot_L16_T4.500_J5.000_h0.000_sweep150_idx0001.csv,150,16,4.5,5.0,0.0,100,500,50
+2,snapshots\snapshot_L16_T4.500_J5.000_h0.000_sweep200_idx0002.csv,200,16,4.5,5.0,0.0,100,500,50
+3,snapshots\snapshot_L16_T4.500_J5.000_h0.000_sweep250_idx0003.csv,250,16,4.5,5.0,0.0,100,500,50
+4,snapshots\snapshot_L16_T4.500_J5.000_h0.000_sweep300_idx0004.csv,300,16,4.5,5.0,0.0,100,500,50
+5,snapshots\snapshot_L16_T4.500_J5.000_h0.000_sweep350_idx0005.csv,350,16,4.5,5.0,0.0,100,500,50
+6,snapshots\snapshot_L16_T4.500_J5.000_h0.000_sweep400_idx0006.csv,400,16,4.5,5.0,0.0,100,500,50
+7,snapshots\snapshot_L16_T4.500_J5.000_h0.000_sweep450_idx0007.csv,450,16,4.5,5.0,0.0,100,500,50
+8,snapshots\snapshot_L16_T4.500_J5.000_h0.000_sweep500_idx0008.csv,500,16,4.5,5.0,0.0,100,500,50
+9,snapshots\snapshot_L16_T4.500_J5.000_h0.000_sweep550_idx0009.csv,550,16,4.5,5.0,0.0,100,500,50
